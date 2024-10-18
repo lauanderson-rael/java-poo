@@ -8,7 +8,7 @@ public class ProdutoCriar {
         p1.marca = "Stell";
         p1.valor = 1.50f;
 
-        /* Construtor de 2 parametros */
+        /* Construtor de 2 parametros */    
         Produto p2 = new Produto("Caneta", "Castel");
         p2.valor = 1.90f;
 
